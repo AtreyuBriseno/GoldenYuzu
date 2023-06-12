@@ -1,0 +1,2 @@
+# GoldenYuzu
+read README
